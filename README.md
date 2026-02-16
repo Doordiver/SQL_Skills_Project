@@ -1,5 +1,5 @@
 # SQL_Skills_Project
-### A selection of SQL queries used to answer a few questions.
+### A selection of SQL queries used to answer a few questions. The querys were focused on using basic SQL code, including WHERE, ORDER BY, LIMIT and simple JOINs.
 
 ## All the queries were made on a country table, and a city table
 
@@ -97,7 +97,7 @@ A query to calculate the Poulation average across the cities within a country, a
 
 ![alt text](https://github.com/Doordiver/SQL_Skills_Project/blob/94c3f29441ed712644acbf1c34e56a15bb33afe6/Images/Screenshot%202026-02-16%20151026.png)
 
-A comparison to check the CApital cities by using the country table, then ordering by Population in the Capital cities.
+A comparison to check the Capital cities by using the country table, then ordering by Population in the Capital cities.
 
 #### 17. Countries with Low Population Density
 
