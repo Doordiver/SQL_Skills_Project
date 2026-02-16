@@ -1,5 +1,7 @@
 # SQL_Skills_Project
-### A selection of SQL queries used to answer a few questions. The querys were focused on using basic SQL code, including WHERE, ORDER BY, LIMIT and simple JOINs.
+### A selection of SQL queries used to answer a few questions. 
+
+The querys were focused on using basic SQL code, including WHERE, ORDER BY, LIMIT and simple JOINs.
 
 ## All the queries were made on a country table, and a city table
 
